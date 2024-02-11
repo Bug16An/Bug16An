@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Taciano Hayashi
 - 👀 Tenho interesse em me tornar um desenvolvedor e trabalhar na area.
 - 🌱 Atualmente estou aprendendo programação.
-- 💞️ Procuro colaborar e melhorar com o futuro de nossa sociedade, fazendo com que ela progrida cada vez mais com os avanços tecnológicos.
+- 💞️ Busco aprender mais e mais com os avanços tecnológicos.
 - 📫 Para entrar em contato comigo pode ser atravez do email junior.h.ferrante@gmail.com
 
 <!---
